@@ -1,5 +1,6 @@
-# 【あつ森QR変換】ライセンス表記
-本アプリは、以下のライブラリを使用しています。
+# 【QR Generator for ACNH】Acknowledgments
+This app contains the following tools and libraries.  
+I wish to thank the developers.  
 
 ## ACNLPatternTool
 Copyright © 2004 Sam Hocevar &lt;sam@hocevar.net&gt;  

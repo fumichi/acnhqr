@@ -1,20 +1,21 @@
-# 【あつ森QR変換】プライバシーポリシー
-## 個人情報の収集
-本アプリは、広告配信のためにGoogle AdMobを利用しています。  
-また、お問い合わせ頂く際、メールアドレスとお問い合わせ内容を収集しております。  
+# 【QR Generator for ACNH】Privacy Policy
+## Personal Information
+This app itself does not collect or store information about your personal information.  
+Google AdMob in the app may collect imformation for advertisement.  
+If you email an inquiry to me, I collect your email address and the contents of the email.  
 
-## 個人情報の利用目的
-### AdMobについて
-広告配信のために広告IDを取得していますが、個人を特定するためなどには使用しておりません。  
-詳細については、[Google広告に関するポリシー](https://policies.google.com/technologies/ads?hl=ja)を参照してください。  
- 
-### お問い合わせ内容とメールアドレスについて
-利用者様からのご要望やご依頼内容などの確認や返信、品質向上のために利用します。
+## Purpose of Use
+### Admob
+AdMob collects an ad ID for advertisement, NOT for personal identification.  
+See [Google Ads Policy](https://policies.google.com/technologies/ads?hl=en) for details.  
 
-## 個人情報の第三者への開示・提供について
-本アプリは、次のいずれかに該当する場合を除き、個人情報を第三者に開示いたしません。
-- お客さまの同意がある場合
-- 法令に基づき開示することが必要である場合
+### Email Address and Contents of the email
+I use your email address for reply and the contents for improving the app.  
 
-## お問い合わせ
-[お問い合わせ先](https://forms.gle/uDJP6UaJmPJA45ov9)
+## Disclosure and Provision to Third Parties
+This app will not disclose personal information to third parties except in the following cases.  
+- With the consent of the customer
+- When it is necessary to disclose in accordance with the law
+
+## Contacting Me
+[Contact Form](https://forms.gle/uDJP6UaJmPJA45ov9)
